@@ -1,3 +1,29 @@
+# PageIndex
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向无向量、推理式 RAG 的文档索引 PageIndex。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
   
 <a href="https://vectify.ai/pageindex" target="_blank">
